@@ -13,12 +13,12 @@ Country Data Retrieval: Fetches data about Ireland from an external API, includi
 
 ## Technologies Used
 
-- **Express.js**: Backend framework for handling server logic and API endpoints.
-- **MongoDB**: NoSQL database for storing trip images and other application data.
-- **HordeAI**: Artificial intelligence platform for image generation.
-- **Leaflet**: JavaScript library for interactive maps.
+- **[Express.js](https://expressjs.com/)**: Backend framework for handling server logic and API endpoints.
+- **[MongoDB](https://www.mongodb.com/)**: NoSQL database for storing trip images and other application data.
+- **[HordeAI](https://stablehorde.net/api/)**: Artificial intelligence platform for image generation.
+- **[Leaflet](https://leafletjs.com)**: JavaScript library for interactive maps.
 - **HTML/CSS/JavaScript**: Frontend development technologies for user interface and interaction.
-- **Node.js**: JavaScript runtime for server-side development.
+- **[Node.js](https://nodejs.org/)**: JavaScript runtime for server-side development.
 
 
 ## Getting Started
@@ -26,9 +26,9 @@ Country Data Retrieval: Fetches data about Ireland from an external API, includi
 
 #### Before running this project, ensure you have the following installed:
 
-##### Node.js
+##### [Node.js](https://nodejs.org/)
 
-##### MongoDB
+##### [MongoDB](https://www.mongodb.com/)
 
 ## Installation
 ```
