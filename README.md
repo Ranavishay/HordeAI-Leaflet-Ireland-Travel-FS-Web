@@ -33,11 +33,11 @@ Country Data Retrieval: Fetches data about Ireland from an external API, includi
 ## Installation
 ```
 # Clone the repository
-git clone <repository-url>
+git clone https://github.com/Ranavishay/HordeAI-Leaflet-Ireland-Travel-FS-Web.git
 ```
 ```
 # Navigate to the backend directory
-cd <repository-name>/backend
+cd HordeAI-Leaflet-Ireland-Travel-FS-Web/backend
 ```
 ```
 # Install backend dependencies
