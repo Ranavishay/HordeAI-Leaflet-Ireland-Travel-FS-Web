@@ -1,0 +1,12 @@
+{
+  "scripts": {
+    "start": "npx live-server"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4",
+    "leaflet-routing-machine": "^3.2.12"
+  },
+  "devDependencies": {
+    "live-server": "^1.1.0"
+  }
+}

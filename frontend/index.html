@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>3 daily route trips in Ireland</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <nav>
+        <ul>
+            <li><a href="#" id="home">Home</a></li>
+            <li class="trip-menu-item" data-trip-type="ByFoot" ><a href="ByFoot.html">Route by Foot</a></li>
+            <li class="trip-menu-item" data-trip-type="ByBike" ><a href="ByBike.html">Route by Bike</a></li>
+            <li class="trip-menu-item" data-trip-type="ByCar" ><a href="ByCar.html">Route by Car</a></li>
+        </ul>
+    </nav>
+    <h2>Country Data (Ireland)</h2>
+    <p id="countryData"></p>
+
+    <div id="images-container">
+        <!-- Images will be added dynamically -->
+    </div>
+    <script src="node_modules/leaflet/dist/leaflet.js"></script> <!-- For leaflet module that installed in client -->
+    <script src="node_modules/leaflet-routing-machine/dist/leaflet-routing-machine.js"></script> <!-- route module for marks route in the map -->
+    <script src="script.js"></script> <!-- Client JS script-->
+</body>
+</html>
